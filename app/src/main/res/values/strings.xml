@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Samsung_module_2</string>
+    <string name="calculator">Calculator</string>
+    <string name="enter">Enter here your sentence…</string>
+    <string name="total">Total:</string>
+    <string name="height_button">90dp</string>
+    <string name="margin_button">5dp</string>
+    <string name="text_size_button">50dp</string>
+    <string name="width_button">327dp</string>
+</resources>
